@@ -203,11 +203,11 @@ main > section {
     width: 100%;
   }
   #experience-badge {
-    margin-left: 20px;
+    margin-left: 15px;
     margin-top: 20px;
   }
   .some-facts {
-    padding-left: 40px;
+    width: 100%;
   }
   .team-img-container,
   .facts-container,
@@ -224,6 +224,10 @@ main > section {
   }
   .team-img-container img {
     width: 100%;
+  }
+  .footer {
+    width: 100%;
+    text-align: center;
   }
 }
 
